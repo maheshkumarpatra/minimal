@@ -11,7 +11,7 @@ Identification of such applicants using EDA is the aim of this case study.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkumarpatra/Bank-Case-Study.git)
 
-<center><img src="images/bank_loan_default.jpeg"/></center>
+<center><img src="assets/img/bank_loan_default.jpeg"/></center>
 
 
 ### RSVP Movies Case Study
