@@ -1,6 +1,19 @@
-title: Minimal theme
+title: Mahesh Kumar Patra
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+<p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/mahesh-kumar-patra/">LinkedIn</a> |
+  <a href="https://github.com/maheshkumarpatra">GitHub</a>
+  
+<br>   
+  2+ years of work experience as a Design Engineer in manufacturing domain.
+  Being Flexible, Quick Learner and Adaptive, seeking for opportunities to enhance the
+  knowledge and skills as a performer and contribute in the growth of organization.
+  Skilled at using statistics, machine learning techniques and visualization to
+  build a competitive advantage.
+  <br>
+  </p>
+  
+  
 theme: jekyll-theme-minimal
