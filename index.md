@@ -37,4 +37,4 @@ demand dynamics of a new market.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maheshkumarpatra/Prediction-of-demand-for-shared-bikes.git)
 
-<center><img src="assets/img/bike_sharing_ml_model.jpeg"/></center>
+<center><img src="assets/img/bike_sharing_ml_model.jpg"/></center>
